@@ -1,4 +1,5 @@
 .This_pointer refers to current instance of a class.
+.It removes name collisions(ambiguity).
 
 
 
